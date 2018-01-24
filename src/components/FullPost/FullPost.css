@@ -1,0 +1,14 @@
+.FullPost {
+    text-align: center;
+    margin: auto;
+}
+
+.PostBody {
+    padding: 16px;
+    width: 80%;
+    margin: 16px auto;
+}
+
+.UserId {
+    color: grey;
+}
