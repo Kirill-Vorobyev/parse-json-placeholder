@@ -49,6 +49,8 @@ class Blog extends Component {
         ));
         return (
             <div className="Container">
+                <p>This page displays a JSON payload from:</p>
+                <a href="https://jsonplaceholder.typicode.com/posts" >https://jsonplaceholder.typicode.com/posts</a>
                 <h1>Number of Posts to Display:</h1>
                 <input 
                 onChange={this.changeNumberHandler}
