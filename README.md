@@ -1,3 +1,3 @@
 # Parsing JSON
 
-Data from https://jsonplaceholder.typicode.com/
+Demo: http://kirill-vorobyev.github.io/parse-json-placeholder
